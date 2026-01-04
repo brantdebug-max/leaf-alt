@@ -1,0 +1,14 @@
+leaf-note/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+│       └── logo.png   (your leaf-Note logo)
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── db.php
+├── index.php
+└── README.md
