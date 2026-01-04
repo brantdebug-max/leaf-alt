@@ -1,0 +1,13 @@
+<?php include "../includes/header.php"; ?>
+
+<section class="container page">
+  <h1>Understanding the Zambian Property Market</h1>
+  <p><em>Posted by leaf-Note</em></p>
+
+  <p>
+    Zambia’s real estate market continues to grow with strong opportunities
+    for homeowners and investors alike.
+  </p>
+</section>
+
+<?php include "../includes/footer.php"; ?>
