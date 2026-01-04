@@ -1,0 +1,13 @@
+<?php include "../includes/header.php"; ?>
+
+<section class="container page">
+  <h1>Frequently Asked Questions</h1>
+
+  <h4>Do you help first-time buyers?</h4>
+  <p>Yes. We guide you through every step of the process.</p>
+
+  <h4>Do you operate outside Zambia?</h4>
+  <p>Yes, we cover Zambia, the USA, and the UK.</p>
+</section>
+
+<?php include "../includes/footer.php"; ?>
