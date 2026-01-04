@@ -1,0 +1,13 @@
+<?php include "../includes/header.php"; ?>
+
+<section class="container page">
+  <h1>Market Statistics</h1>
+
+  <ul>
+    <li>200+ Properties Sold</li>
+    <li>98% Client Satisfaction</li>
+    <li>Growing Investment Demand</li>
+  </ul>
+</section>
+
+<?php include "../includes/footer.php"; ?>
